@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 123456hahahhahahahahhemmmmmmbujidao
+=======
+123456
+zaqwsxedcrfvtgybhnjmik
+azqwsxedcrfvtgybhnujmk
+>>>>>>> 025e17dd517a6a9af094d9ce1f888cfe19fbea45
